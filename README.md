@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on on my security skills
-- 🌱 I’m currently learning java , penetration testing , unity etc..
+- 🌱 I’m currently learning java , Web Devlopment etc..
 - 👯 I’m looking to collaborate on the project that intrest me.
-- 💬 Ask me about ethical hacking or tech related stuff
+- 💬 Ask me about tech related stuff
 - 📫 How to reach me: myname.chinmay.18@gmail.com --here's my mail
 - ⚡ Fun fact: No system is secure 
 
