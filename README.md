@@ -3,6 +3,6 @@
 - 👯 I’m looking to collaborate on the project that help me learning more stuff.
 - 💬 Ask me about tech related stuff
 - 📫 How to reach me: myname.chinmay.18@gmail.com --here's my mail
-- 🌐 Or just [Click For Portfolio](chinmay-mulay.netlify.app)
+- 🌐 Or just [click to visit portfolio](chinmay-mulay.netlify.app target="_blank")
 - ⚡ Fun fact: No system is secure 
 
